@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC Service API", "AC Service API\AC Service API.csproj", "{CB097FB3-DC98-46FA-8A70-08947EE2297E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB097FB3-DC98-46FA-8A70-08947EE2297E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB097FB3-DC98-46FA-8A70-08947EE2297E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB097FB3-DC98-46FA-8A70-08947EE2297E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB097FB3-DC98-46FA-8A70-08947EE2297E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A924508-5459-436F-A06F-A52BC0C05337}
+	EndGlobalSection
+EndGlobal

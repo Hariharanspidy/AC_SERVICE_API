@@ -1,0 +1,77 @@
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.csproj.AssemblyReference.cache
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.AssemblyInfoInputs.cache
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.AssemblyInfo.cs
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.csproj.CoreCompileInputs.cache
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.MvcApplicationPartsAssemblyInfo.cs
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\appsettings.Development.json
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\appsettings.json
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\AC Service API.exe
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\AC Service API.deps.json
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\AC Service API.runtimeconfig.json
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\AC Service API.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\AC Service API.pdb
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Azure.Core.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Humanizer.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\AC Service API\AC Service API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\staticwebassets\msbuild.AC Service API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\staticwebassets\msbuild.build.AC Service API.props
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AC Service API.props
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AC Service API.props
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\scopedcss\bundle\AC Service API.styles.css
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.csproj.CopyComplete
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.dll
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\refint\AC Service API.dll
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.pdb
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\AC Service API.genruntimeconfig.cache
+D:\Practice\AC Service API\AC Service API\obj\Debug\net7.0\ref\AC Service API.dll
